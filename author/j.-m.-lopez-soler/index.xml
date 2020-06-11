@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. López-Soler | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/j.-m.-lopez-soler/</link>
+      <atom:link href="https://javism.github.io/author/j.-m.-lopez-soler/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. López-Soler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>J. M. López-Soler</title>
+      <link>https://javism.github.io/author/j.-m.-lopez-soler/</link>
+    </image>
+    
+    <item>
+      <title>An extensible DDS-based monitoring and intrusion detection system</title>
+      <link>https://javism.github.io/publication/garcia-aranda-2011-omg/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/garcia-aranda-2011-omg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloom filter-based discovery protocol for DDS middleware</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2011-jpdc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2011-jpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Políticas de QoS en una Plataforma de Trabajo Colaborativo sobre Middleware DDS</title>
+      <link>https://javism.github.io/publication/lopez-vega-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/lopez-vega-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant Messaging Based Interface for Data Distribution Service</title>
+      <link>https://javism.github.io/publication/povedano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/povedano-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS Policies for Audio/Video Distribution Over DDS Middleware</title>
+      <link>https://javism.github.io/publication/lopez-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/lopez-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An XML-Based Approach to the Configuration and Deployment of DDS Applications</title>
+      <link>https://javism.github.io/publication/sanchez-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable DDS Discovery Protocols Based on Bloom Filters</title>
+      <link>https://javism.github.io/publication/sanchez-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

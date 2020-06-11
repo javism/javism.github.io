@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Sánchez-Monedero | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/javier-sanchez-monedero/</link>
+      <atom:link href="https://javism.github.io/author/javier-sanchez-monedero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Sánchez-Monedero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>Javier Sánchez-Monedero</title>
+      <link>https://javism.github.io/author/javier-sanchez-monedero/</link>
+    </image>
+    
+    <item>
+      <title>Data Justice in the Workplace</title>
+      <link>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio comparativo de distintos métodos de umbral en regresión ordinal</title>
+      <link>https://javism.github.io/publication/ecmro-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/ecmro-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

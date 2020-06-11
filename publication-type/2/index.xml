@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/publication-type/2/</link>
+      <atom:link href="https://javism.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>2</title>
+      <link>https://javism.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of evolutionary time series analysis for segmenting paleoclimate data</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2016/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORCA: A Matlab/Octave Toolbox for Ordinal Regression</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2019-orca/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2019-orca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial order label decomposition approaches for melanoma diagnosis</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2017-asoc/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2017-asoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning methods for binary and multiclass classification of melanoma thickness from dermoscopic images</title>
+      <link>https://javism.github.io/publication/saez-2015-tmi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/saez-2015-tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal regression methods: survey and experimental study</title>
+      <link>https://javism.github.io/publication/gutierrez-2016-survey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/gutierrez-2016-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on multi-scale kernel optimisation via centered kernel-target alignment</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2015-npl/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2015-npl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelising the Proportional Odds Model through Kernel Learning techniques</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2015-neucom/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2015-neucom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic evolutionary product-unit neural network classifier: the case of agrarian efficiency</title>
+      <link>https://javism.github.io/publication/torres-jimenez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/torres-jimenez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guided data projection technique for classification of sovereign ratings: the case of European Union 27</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2014-asoc/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2014-asoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous modelling of rainfall occurrence and amount using a hierarchical nominal-ordinal support vector classifier</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2014-eaai/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2014-eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metrics to guide a multi-objective evolutionary algorithm for ordinal classification</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2014-neurocomputing/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2014-neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Pairwise Class Distances for Ordinal Classification</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2013-neco/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2013-neco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal and nominal classification of wind speed from synoptic pressure patterns</title>
+      <link>https://javism.github.io/publication/gutierrez-2013-wind/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/gutierrez-2013-wind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloom filter-based discovery protocol for DDS middleware</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2011-jpdc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2011-jpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MELM-GRBF: A modified version of the Extreme Learning Machine for Generalized Radial Basis Function Neural Networks</title>
+      <link>https://javism.github.io/publication/fernandez-elm-australia-2010/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/fernandez-elm-australia-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighting Efficient Accuracy and Minimum Sensitivity for Evolving Multi-Class Classifiers</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2011-npl/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2011-npl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Performance of Evolutionary Extreme Learning Machines by a Combination of Sensitivity and Accuracy Measures</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic Pareto differential evolutionary artificial neural networks to determine growth multi-classes in predictive microbiology</title>
+      <link>https://javism.github.io/publication/cruz-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2010-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. T. Lamata | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/m.-t.-lamata/</link>
+      <atom:link href="https://javism.github.io/author/m.-t.-lamata/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. T. Lamata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>M. T. Lamata</title>
+      <link>https://javism.github.io/author/m.-t.-lamata/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble determination using the TOPSIS decision support system in multi-objective evolutionary neural network classifiers</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2010-isda/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

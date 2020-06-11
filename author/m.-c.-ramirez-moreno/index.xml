@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. C. Ramírez Moreno | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/m.-c.-ramirez-moreno/</link>
+      <atom:link href="https://javism.github.io/author/m.-c.-ramirez-moreno/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. C. Ramírez Moreno</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>M. C. Ramírez Moreno</title>
+      <link>https://javism.github.io/author/m.-c.-ramirez-moreno/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Performance of Evolutionary Extreme Learning Machines by a Combination of Sensitivity and Accuracy Measures</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Learning using a Sensitivity-Accuracy Approach for Classification</title>
+      <link>https://javism.github.io/publication/sanchez-elmcs-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-elmcs-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

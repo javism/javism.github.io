@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Cruz-Ramírez | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/m.-cruz-ramirez/</link>
+      <atom:link href="https://javism.github.io/author/m.-cruz-ramirez/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Cruz-Ramírez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>M. Cruz-Ramírez</title>
+      <link>https://javism.github.io/author/m.-cruz-ramirez/</link>
+    </image>
+    
+    <item>
+      <title>Kernelising the Proportional Odds Model through Kernel Learning techniques</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2015-neucom/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2015-neucom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metrics to guide a multi-objective evolutionary algorithm for ordinal classification</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2014-neurocomputing/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2014-neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelising the Proportional Odds Model through kernel learning techniques</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2013-iwann/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2013-iwann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaching system administration as a group project in computer engineering higher education</title>
+      <link>https://javism.github.io/publication/s-adm-gutierrez-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/s-adm-gutierrez-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study of Ordinal Metrics to Guide a Multi-Objective Evolutionary Algorithm</title>
+      <link>https://javism.github.io/publication/cruz-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting the best artificial neural network model from a multi-objective Differential Evolution Pareto front</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2011-sde/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2011-sde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the suitability of Extreme Learning Machine for gene classification using feature selection</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-isda/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Pareto Differential Evolutionary Artificial Neural Networks to determined growth multi-classes in Predictive Microbiology</title>
+      <link>https://javism.github.io/publication/cruz-csffh-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-csffh-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprendizaje híbrido de redes neuronales q-Gaussianas en clasificación binaria</title>
+      <link>https://javism.github.io/publication/fernandez-navarro-2010-maeb/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/fernandez-navarro-2010-maeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble determination using the TOPSIS decision support system in multi-objective evolutionary neural network classifiers</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2010-isda/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Performance of Evolutionary Extreme Learning Machines by a Combination of Sensitivity and Accuracy Measures</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Learning using a Sensitivity-Accuracy Approach for Classification</title>
+      <link>https://javism.github.io/publication/sanchez-elmcs-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-elmcs-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Artificial Neural Networks Multiclassifiers by Evolutionary Multiobjective Differential Evolution Guided by Statistical Distributions</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2010-ijcnn/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2010-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic Pareto differential evolutionary artificial neural networks to determine growth multi-classes in predictive microbiology</title>
+      <link>https://javism.github.io/publication/cruz-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology for the recognition and diagnosis of students performance by discriminant analisys and artificial neural networks</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-iceute/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-iceute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

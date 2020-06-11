@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. C. Fernandez-Caballero | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/j.-c.-fernandez-caballero/</link>
+      <atom:link href="https://javism.github.io/author/j.-c.-fernandez-caballero/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. C. Fernandez-Caballero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>J. C. Fernandez-Caballero</title>
+      <link>https://javism.github.io/author/j.-c.-fernandez-caballero/</link>
+    </image>
+    
+    <item>
+      <title>Approaching system administration as a group project in computer engineering higher education</title>
+      <link>https://javism.github.io/publication/s-adm-gutierrez-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/s-adm-gutierrez-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic Pareto differential evolutionary artificial neural networks to determine growth multi-classes in predictive microbiology</title>
+      <link>https://javism.github.io/publication/cruz-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2010-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

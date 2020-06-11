@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Saez | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/a.-saez/</link>
+      <atom:link href="https://javism.github.io/author/a.-saez/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Saez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>A. Saez</title>
+      <link>https://javism.github.io/author/a.-saez/</link>
+    </image>
+    
+    <item>
+      <title>Partial order label decomposition approaches for melanoma diagnosis</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2017-asoc/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2017-asoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced feature extraction and machine learning models to melanoma and Breslow index detection</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2017-imibic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2017-imibic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Artificial Intelligent Systems: 11th International Conference, HAIS 2016, Seville, Spain, April 18-20, 2016, Proceedings</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2016-hais/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2016-hais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning methods for binary and multiclass classification of melanoma thickness from dermoscopic images</title>
+      <link>https://javism.github.io/publication/saez-2015-tmi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/saez-2015-tmi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

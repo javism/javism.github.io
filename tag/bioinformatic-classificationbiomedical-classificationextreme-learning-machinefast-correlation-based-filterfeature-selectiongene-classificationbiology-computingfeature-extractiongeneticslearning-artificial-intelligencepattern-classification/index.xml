@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioinformatic classification;biomedical classification;extreme learning machine;fast correlation-based filter;feature selection;gene classification;biology computing;feature extraction;genetics;learning (artificial intelligence);pattern classification; | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/bioinformatic-classificationbiomedical-classificationextreme-learning-machinefast-correlation-based-filterfeature-selectiongene-classificationbiology-computingfeature-extractiongeneticslearning-artificial-intelligencepattern-classification/</link>
+      <atom:link href="https://javism.github.io/tag/bioinformatic-classificationbiomedical-classificationextreme-learning-machinefast-correlation-based-filterfeature-selectiongene-classificationbiology-computingfeature-extractiongeneticslearning-artificial-intelligencepattern-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>bioinformatic classification;biomedical classification;extreme learning machine;fast correlation-based filter;feature selection;gene classification;biology computing;feature extraction;genetics;learning (artificial intelligence);pattern classification;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>bioinformatic classification;biomedical classification;extreme learning machine;fast correlation-based filter;feature selection;gene classification;biology computing;feature extraction;genetics;learning (artificial intelligence);pattern classification;</title>
+      <link>https://javism.github.io/tag/bioinformatic-classificationbiomedical-classificationextreme-learning-machinefast-correlation-based-filterfeature-selectiongene-classificationbiology-computingfeature-extractiongeneticslearning-artificial-intelligencepattern-classification/</link>
+    </image>
+    
+    <item>
+      <title>On the suitability of Extreme Learning Machine for gene classification using feature selection</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-isda/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. C. Fernández | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/j.-c.-fernandez/</link>
+      <atom:link href="https://javism.github.io/author/j.-c.-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. C. Fernández</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>J. C. Fernández</title>
+      <link>https://javism.github.io/author/j.-c.-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Selecting the best artificial neural network model from a multi-objective Differential Evolution Pareto front</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2011-sde/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2011-sde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the suitability of Extreme Learning Machine for gene classification using feature selection</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-isda/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Pareto Differential Evolutionary Artificial Neural Networks to determined growth multi-classes in Predictive Microbiology</title>
+      <link>https://javism.github.io/publication/cruz-csffh-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-csffh-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble determination using the TOPSIS decision support system in multi-objective evolutionary neural network classifiers</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2010-isda/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2010-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Artificial Neural Networks Multiclassifiers by Evolutionary Multiobjective Differential Evolution Guided by Statistical Distributions</title>
+      <link>https://javism.github.io/publication/cruz-ramirez-2010-ijcnn/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-ramirez-2010-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology for the recognition and diagnosis of students performance by discriminant analisys and artificial neural networks</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-iceute/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-iceute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

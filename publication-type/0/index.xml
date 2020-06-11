@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/publication-type/0/</link>
+      <atom:link href="https://javism.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>0</title>
+      <link>https://javism.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven  hiring, labour relations, and social justice</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-datapower-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-datapower-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing ordinal input variables in the context of ordinal classification</title>
+      <link>https://javism.github.io/publication/pa-gutierrez-2016-ijcnn/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/pa-gutierrez-2016-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling the ordinal and imbalance nature of a melanoma image classification problem</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio comparativo de distintos métodos de umbral en regresión ordinal</title>
+      <link>https://javism.github.io/publication/ecmro-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/ecmro-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio comparativo de distintos métodos de umbral en regresión ordinal</title>
+      <link>https://javism.github.io/publication/gutierrez-2013-maeb/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/gutierrez-2013-maeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaching system administration as a group project in computer engineering higher education</title>
+      <link>https://javism.github.io/publication/s-adm-gutierrez-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/s-adm-gutierrez-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study of Ordinal Metrics to Guide a Multi-Objective Evolutionary Algorithm</title>
+      <link>https://javism.github.io/publication/cruz-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical variable reconstruction from ordinal categories based on probability distributions</title>
+      <link>https://javism.github.io/publication/sanchez-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extensible DDS-based monitoring and intrusion detection system</title>
+      <link>https://javism.github.io/publication/garcia-aranda-2011-omg/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/garcia-aranda-2011-omg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El software libre y la tortilla de patatas</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2011-sl/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2011-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-level Programming of DDS Systems</title>
+      <link>https://javism.github.io/publication/campos-ruiz-2011-omg/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/campos-ruiz-2011-omg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An XML-Based Approach to the Configuration and Deployment of DDS Applications</title>
+      <link>https://javism.github.io/publication/sanchez-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable DDS Discovery Protocols Based on Bloom Filters</title>
+      <link>https://javism.github.io/publication/sanchez-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

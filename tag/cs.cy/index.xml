@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs.CY | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/cs.cy/</link>
+      <atom:link href="https://javism.github.io/tag/cs.cy/index.xml" rel="self" type="application/rss+xml" />
+    <description>cs.CY</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>cs.CY</title>
+      <link>https://javism.github.io/tag/cs.cy/</link>
+    </image>
+    
+    <item>
+      <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

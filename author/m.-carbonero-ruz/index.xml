@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Carbonero-Ruz | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/m.-carbonero-ruz/</link>
+      <atom:link href="https://javism.github.io/author/m.-carbonero-ruz/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Carbonero-Ruz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>M. Carbonero-Ruz</title>
+      <link>https://javism.github.io/author/m.-carbonero-ruz/</link>
+    </image>
+    
+    <item>
+      <title>Numerical variable reconstruction from ordinal categories based on probability distributions</title>
+      <link>https://javism.github.io/publication/sanchez-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Performance of Evolutionary Extreme Learning Machines by a Combination of Sensitivity and Accuracy Measures</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Learning using a Sensitivity-Accuracy Approach for Classification</title>
+      <link>https://javism.github.io/publication/sanchez-elmcs-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-elmcs-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

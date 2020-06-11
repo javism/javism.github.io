@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>im | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/im/</link>
+      <atom:link href="https://javism.github.io/tag/im/index.xml" rel="self" type="application/rss+xml" />
+    <description>im</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>im</title>
+      <link>https://javism.github.io/tag/im/</link>
+    </image>
+    
+    <item>
+      <title>Instant Messaging Based Interface for Data Distribution Service</title>
+      <link>https://javism.github.io/publication/povedano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/povedano-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

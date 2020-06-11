@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/audio/</link>
+      <atom:link href="https://javism.github.io/tag/audio/index.xml" rel="self" type="application/rss+xml" />
+    <description>audio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>audio</title>
+      <link>https://javism.github.io/tag/audio/</link>
+    </image>
+    
+    <item>
+      <title>Políticas de QoS en una Plataforma de Trabajo Colaborativo sobre Middleware DDS</title>
+      <link>https://javism.github.io/publication/lopez-vega-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/lopez-vega-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

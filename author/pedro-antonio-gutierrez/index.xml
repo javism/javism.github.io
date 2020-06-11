@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Antonio Gutiérrez | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/pedro-antonio-gutierrez/</link>
+      <atom:link href="https://javism.github.io/author/pedro-antonio-gutierrez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Antonio Gutiérrez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>Pedro Antonio Gutiérrez</title>
+      <link>https://javism.github.io/author/pedro-antonio-gutierrez/</link>
+    </image>
+    
+    <item>
+      <title>Overcoming the Linearity of Ordinal Logistic Regression Adding Non-linear Covariates from Evolutionary Hybrid Neural Network Models</title>
+      <link>https://javism.github.io/publication/dorado-moreno-2015-caepia/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/dorado-moreno-2015-caepia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio comparativo de distintos métodos de umbral en regresión ordinal</title>
+      <link>https://javism.github.io/publication/ecmro-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/ecmro-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

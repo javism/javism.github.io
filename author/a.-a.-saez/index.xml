@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. A. Sáez | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/a.-a.-saez/</link>
+      <atom:link href="https://javism.github.io/author/a.-a.-saez/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. A. Sáez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>A. A. Sáez</title>
+      <link>https://javism.github.io/author/a.-a.-saez/</link>
+    </image>
+    
+    <item>
+      <title>Tackling the ordinal and imbalance nature of a melanoma image classification problem</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

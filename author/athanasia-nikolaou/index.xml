@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athanasia Nikolaou | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/athanasia-nikolaou/</link>
+      <atom:link href="https://javism.github.io/author/athanasia-nikolaou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Athanasia Nikolaou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>Athanasia Nikolaou</title>
+      <link>https://javism.github.io/author/athanasia-nikolaou/</link>
+    </image>
+    
+    <item>
+      <title>Time Series Segmentation of Paleoclimate Tipping Points by an Evolutionary Algorithm</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2014-hais/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2014-hais/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

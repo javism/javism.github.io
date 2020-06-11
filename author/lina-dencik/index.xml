@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lina Dencik | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/lina-dencik/</link>
+      <atom:link href="https://javism.github.io/author/lina-dencik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lina Dencik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>Lina Dencik</title>
+      <link>https://javism.github.io/author/lina-dencik/</link>
+    </image>
+    
+    <item>
+      <title>Data Justice in the Workplace</title>
+      <link>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

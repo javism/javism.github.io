@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Salcedo-Sanz | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/s.-salcedo-sanz/</link>
+      <atom:link href="https://javism.github.io/author/s.-salcedo-sanz/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Salcedo-Sanz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>S. Salcedo-Sanz</title>
+      <link>https://javism.github.io/author/s.-salcedo-sanz/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous modelling of rainfall occurrence and amount using a hierarchical nominal-ordinal support vector classifier</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2014-eaai/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2014-eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal and nominal classification of wind speed from synoptic pressure patterns</title>
+      <link>https://javism.github.io/publication/gutierrez-2013-wind/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/gutierrez-2013-wind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating nominal and ordinal classifiers for wind speed prediction from synoptic pressure patterns</title>
+      <link>https://javism.github.io/publication/pedro-a-gutierrez-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/pedro-a-gutierrez-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

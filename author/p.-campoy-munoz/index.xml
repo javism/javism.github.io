@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Campoy-Muñoz | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/p.-campoy-munoz/</link>
+      <atom:link href="https://javism.github.io/author/p.-campoy-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Campoy-Muñoz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>P. Campoy-Muñoz</title>
+      <link>https://javism.github.io/author/p.-campoy-munoz/</link>
+    </image>
+    
+    <item>
+      <title>A guided data projection technique for classification of sovereign ratings: the case of European Union 27</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-2014-asoc/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-2014-asoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

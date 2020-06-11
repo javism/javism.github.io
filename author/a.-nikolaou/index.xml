@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Nikolaou | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/a.-nikolaou/</link>
+      <atom:link href="https://javism.github.io/author/a.-nikolaou/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Nikolaou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>A. Nikolaou</title>
+      <link>https://javism.github.io/author/a.-nikolaou/</link>
+    </image>
+    
+    <item>
+      <title>On the use of evolutionary time series analysis for segmenting paleoclimate data</title>
+      <link>https://javism.github.io/publication/perez-ortiz-2016/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/perez-ortiz-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

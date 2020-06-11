@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mean Absolute Error; Multi-Objective Evolutionary Algorithm; OrdinalMeasures; | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/mean-absolute-error-multi-objective-evolutionary-algorithm-ordinalmeasures/</link>
+      <atom:link href="https://javism.github.io/tag/mean-absolute-error-multi-objective-evolutionary-algorithm-ordinalmeasures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mean Absolute Error; Multi-Objective Evolutionary Algorithm; OrdinalMeasures;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>Mean Absolute Error; Multi-Objective Evolutionary Algorithm; OrdinalMeasures;</title>
+      <link>https://javism.github.io/tag/mean-absolute-error-multi-objective-evolutionary-algorithm-ordinalmeasures/</link>
+    </image>
+    
+    <item>
+      <title>A Preliminary Study of Ordinal Metrics to Guide a Multi-Objective Evolutionary Algorithm</title>
+      <link>https://javism.github.io/publication/cruz-2011-isda/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/cruz-2011-isda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

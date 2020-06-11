@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>videoconferencing | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/tag/videoconferencing/</link>
+      <atom:link href="https://javism.github.io/tag/videoconferencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>videoconferencing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>videoconferencing</title>
+      <link>https://javism.github.io/tag/videoconferencing/</link>
+    </image>
+    
+    <item>
+      <title>QoS Policies for Audio/Video Distribution Over DDS Middleware</title>
+      <link>https://javism.github.io/publication/lopez-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/lopez-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

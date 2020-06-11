@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>	extbfJ. Sánchez-Monedero | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/extbfj.-sanchez-monedero/</link>
+      <atom:link href="https://javism.github.io/author/extbfj.-sanchez-monedero/index.xml" rel="self" type="application/rss+xml" />
+    <description>	extbfJ. Sánchez-Monedero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>	extbfJ. Sánchez-Monedero</title>
+      <link>https://javism.github.io/author/extbfj.-sanchez-monedero/</link>
+    </image>
+    
+    <item>
+      <title>Ordinal and nominal classification of wind speed from synoptic pressure patterns</title>
+      <link>https://javism.github.io/publication/gutierrez-2013-wind/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/gutierrez-2013-wind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

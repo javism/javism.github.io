@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Ventura Soto | Javier Sánchez-Monedero academic website</title>
+    <link>https://javism.github.io/author/s.-ventura-soto/</link>
+      <atom:link href="https://javism.github.io/author/s.-ventura-soto/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Ventura Soto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/img/nariz.jpg</url>
+      <title>S. Ventura Soto</title>
+      <link>https://javism.github.io/author/s.-ventura-soto/</link>
+    </image>
+    
+    <item>
+      <title>Implantación de LDAP como sistema de autenticación centralizada</title>
+      <link>https://javism.github.io/publication/sanchez-2006/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
