@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javier Sánchez-Monedero | Javier Sánchez-Monedero academic website</title>
+    <title>Javier Sánchez-Monedero | Javier Sánchez-Monedero&#39;s website</title>
     <link>https://javism.github.io/author/javier-sanchez-monedero/</link>
       <atom:link href="https://javism.github.io/author/javier-sanchez-monedero/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Sánchez-Monedero</description>
@@ -17,6 +17,22 @@
       <link>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaching datafication from the perspective of social justice</title>
+      <link>https://javism.github.io/talk/2018-09-13-hiig/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-09-13-hiig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding data in relation to social justice</title>
+      <link>https://javism.github.io/talk/2018-08-02-presentation_ucl/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-08-02-presentation_ucl/</guid>
       <description></description>
     </item>
     

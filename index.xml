@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javier Sánchez-Monedero academic website</title>
+    <title>Javier Sánchez-Monedero&#39;s website</title>
     <link>https://javism.github.io/</link>
       <atom:link href="https://javism.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Javier Sánchez-Monedero academic website</description>
+    <description>Javier Sánchez-Monedero&#39;s website</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/img/nariz.jpg</url>
-      <title>Javier Sánchez-Monedero academic website</title>
+      <title>Javier Sánchez-Monedero&#39;s website</title>
       <link>https://javism.github.io/</link>
     </image>
     
@@ -137,6 +137,14 @@
       <link>https://javism.github.io/talk/2018-10-10-datajustice_uco/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/talk/2018-10-10-datajustice_uco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaching datafication from the perspective of social justice</title>
+      <link>https://javism.github.io/talk/2018-09-13-hiig/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-09-13-hiig/</guid>
       <description></description>
     </item>
     

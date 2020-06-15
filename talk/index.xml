@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Javier Sánchez-Monedero academic website</title>
+    <title>Recent &amp; Upcoming Talks | Javier Sánchez-Monedero&#39;s website</title>
     <link>https://javism.github.io/talk/</link>
       <atom:link href="https://javism.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
@@ -73,6 +73,14 @@
       <link>https://javism.github.io/talk/2018-10-10-datajustice_uco/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/talk/2018-10-10-datajustice_uco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaching datafication from the perspective of social justice</title>
+      <link>https://javism.github.io/talk/2018-09-13-hiig/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2018-09-13-hiig/</guid>
       <description></description>
     </item>
     
