@@ -5,20 +5,12 @@
     <link>https://javism.github.io/talk/</link>
       <atom:link href="https://javism.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2020 10:27:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/img/nariz.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://javism.github.io/talk/</link>
     </image>
-    
-    <item>
-      <title>2015 12 05 Ciencia Datos</title>
-      <link>https://javism.github.io/talk/2015-12-05-ciencia-datos/</link>
-      <pubDate>Tue, 16 Jun 2020 10:27:56 +0200</pubDate>
-      <guid>https://javism.github.io/talk/2015-12-05-ciencia-datos/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Digital borders and data policies in the governance of refugees and migrants</title>
@@ -113,6 +105,14 @@
       <link>https://javism.github.io/talk/2017-05-11-time-series_ureading/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/talk/2017-05-11-time-series_ureading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El proceso de ciencia de datos y problemas de clasificación</title>
+      <link>https://javism.github.io/talk/2015-12-05-ciencia-datos/</link>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2015-12-05-ciencia-datos/</guid>
       <description></description>
     </item>
     
