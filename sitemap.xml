@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://javism.github.io/talk/2015-12-05-ciencia-datos/</loc>
+    <lastmod>2020-06-16T10:27:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javism.github.io/</loc>
+    <lastmod>2020-06-16T10:27:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://javism.github.io/talk/</loc>
+    <lastmod>2020-06-16T10:27:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -43,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://javism.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://javism.github.io/author/l.-edwards/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://javism.github.io/talk/2019-11-22-datajustice_borders_ehess/</loc>
-    <lastmod>2019-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://javism.github.io/talk/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>
   </url>
   
