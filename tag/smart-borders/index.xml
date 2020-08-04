@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart borders | Javier Sánchez-Monedero</title>
+    <link>https://javism.github.io/tag/smart-borders/</link>
+      <atom:link href="https://javism.github.io/tag/smart-borders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart borders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/media/nariz.jpg</url>
+      <title>Smart borders</title>
+      <link>https://javism.github.io/tag/smart-borders/</link>
+    </image>
+    
+    <item>
+      <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-politics-borders-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
