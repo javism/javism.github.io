@@ -5,12 +5,28 @@
     <link>https://javism.github.io/publication-type/2/</link>
       <atom:link href="https://javism.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>2</title>
       <link>https://javism.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>How fair can we go in machine learning? Assessing the boundaries of fairness in decision trees</title>
+      <link>https://javism.github.io/publication/valdivia-how-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/valdivia-how-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A population-based controlled experiment assessing the epidemiological impact of digital contact tracing</title>
+      <link>https://javism.github.io/publication/rodriguez-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/rodriguez-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>

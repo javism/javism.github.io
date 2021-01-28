@@ -5,12 +5,36 @@
     <link>https://javism.github.io/</link>
       <atom:link href="https://javism.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Sánchez-Monedero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>Javier Sánchez-Monedero</title>
       <link>https://javism.github.io/</link>
     </image>
+    
+    <item>
+      <title>How fair can we go in machine learning? Assessing the boundaries of fairness in decision trees</title>
+      <link>https://javism.github.io/publication/valdivia-how-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/valdivia-how-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A population-based controlled experiment assessing the epidemiological impact of digital contact tracing</title>
+      <link>https://javism.github.io/publication/rodriguez-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/rodriguez-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fronteras digitales y humanitarismo de vigilancia</title>
+      <link>https://javism.github.io/talk/2020-11-17-fronteras/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/talk/2020-11-17-fronteras/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
