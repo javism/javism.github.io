@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politics of recognition | Javier Sánchez-Monedero</title>
+    <link>https://javism.github.io/tag/politics-of-recognition/</link>
+      <atom:link href="https://javism.github.io/tag/politics-of-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>politics of recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/media/nariz.jpg</url>
+      <title>politics of recognition</title>
+      <link>https://javism.github.io/tag/politics-of-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Biometric identity systems in law enforcement and the politics of (voice) recognition: The case of SiiP</title>
+      <link>https://javism.github.io/publication/jansen-2021-siip/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/jansen-2021-siip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

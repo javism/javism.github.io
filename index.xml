@@ -5,12 +5,20 @@
     <link>https://javism.github.io/</link>
       <atom:link href="https://javism.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Sánchez-Monedero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>Javier Sánchez-Monedero</title>
       <link>https://javism.github.io/</link>
     </image>
+    
+    <item>
+      <title>Biometric identity systems in law enforcement and the politics of (voice) recognition: The case of SiiP</title>
+      <link>https://javism.github.io/publication/jansen-2021-siip/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/jansen-2021-siip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How fair can we go in machine learning? Assessing the boundaries of fairness in decision trees</title>
