@@ -5,12 +5,20 @@
     <link>https://javism.github.io/author/l.-dencik/</link>
       <atom:link href="https://javism.github.io/author/l.-dencik/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Dencik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>L. Dencik</title>
       <link>https://javism.github.io/author/l.-dencik/</link>
     </image>
+    
+    <item>
+      <title>Data Justice</title>
+      <link>https://javism.github.io/publication/dencik_2022_datajustice/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/dencik_2022_datajustice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biometric identity systems in law enforcement and the politics of (voice) recognition: The case of SiiP</title>

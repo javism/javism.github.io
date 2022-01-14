@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access to justice | Javier Sánchez-Monedero</title>
+    <link>https://javism.github.io/tag/access-to-justice/</link>
+      <atom:link href="https://javism.github.io/tag/access-to-justice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Access to justice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/media/nariz.jpg</url>
+      <title>Access to justice</title>
+      <link>https://javism.github.io/tag/access-to-justice/</link>
+    </image>
+    
+    <item>
+      <title>Data Justice</title>
+      <link>https://javism.github.io/publication/dencik_2022_datajustice/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/dencik_2022_datajustice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
