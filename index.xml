@@ -5,12 +5,20 @@
     <link>https://javism.github.io/</link>
       <atom:link href="https://javism.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Sánchez-Monedero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>Javier Sánchez-Monedero</title>
       <link>https://javism.github.io/</link>
     </image>
+    
+    <item>
+      <title>Guía práctica y herramienta sobre la obligación empresarial de información sobre el uso de algoritmos en el ámbito laboral</title>
+      <link>https://javism.github.io/publication/guia-mites-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/guia-mites-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Justice</title>
@@ -156,7 +164,8 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.euractiv.com/section/digital/opinion/the-eu-is-funding-dystopian-artificial-intelligence-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The EU is funding dystopian Artificial Intelligence projects&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;http://www.euractiv.com&#34;&gt;www.euractiv.com&lt;/a&gt;&lt;/em&gt;, 22-Jan-2020.&lt;/p&gt;
+&lt;a href=&#34;https://www.euractiv.com/section/digital/opinion/the-eu-is-funding-dystopian-artificial-intelligence-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The EU is funding dystopian Artificial Intelligence projects&lt;/a&gt;, &lt;em&gt;
+&lt;a href=&#34;https://www.euractiv.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.euractiv.com&lt;/a&gt;&lt;/em&gt;, 22-Jan-2020.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -816,6 +825,24 @@ Calais&lt;/a&gt;,
       <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/publication/sanchez-2006/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://javism.github.io/course/ucoweb/webuco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/course/ucoweb/webuco/</guid>
+      <description>&lt;h1 id=&#34;cómo-hacer-una-web-personal-en-los-servidores-de-la-uco&#34;&gt;Cómo hacer una web personal en los servidores de la UCO&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://javism.github.io/course/webuco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/course/webuco/</guid>
+      <description>&lt;h1 id=&#34;cómo-hacer-una-web-personal-en-los-servidores-de-la-uco&#34;&gt;Cómo hacer una web personal en los servidores de la UCO&lt;/h1&gt;
+</description>
     </item>
     
   </channel>
