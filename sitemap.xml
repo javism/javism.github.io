@@ -1,671 +1,1117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://javism.github.io/publication-type/4/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/adrian-todoli-signes/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/ana-belen-munoz-ruiz/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/anna-gines-i-fabrellas/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/authors/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/gemma-galdon-clavell/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/guia-mites-2022/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication_types/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/</loc>
     <lastmod>2022-11-02T16:52:09+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/2/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/access-to-justice/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/algorithms/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/data/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/dencik_2022_datajustice/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/datafication/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/digital-society/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-sanchez-monedero/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-dencik/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/social-justice/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tags/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/jansen-2021-siip/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/biometrics/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-jansen/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/identity/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/law-enforcement/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/politics-of-recognition/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/speaker-identification/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2021-07-07-securityflows/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-valdivia/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/computer-science-machine-learning/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/valdivia-how-2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-casillas/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/statistics-machine-learning/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2021-03-18-societatestadistica/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2021-03-03-durham/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/6/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/rodriguez-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-arenas/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-romani/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/b.-suarez-rodriguez/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/e.-e.-alvarez-leon/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-j.-darias/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-lacasa/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-battaglini/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-c.-martin/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/o.-ramirez-rubio/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-llaneza/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-rodriguez/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/r.-lopez-m.-hernan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2021-book-covid-19/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/s.-grana/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2020-11-17-fronteras/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/affective-computing/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/deception-detection/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/lie-detection/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/machine-learning/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/migration/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/smart-borders/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-politics-borders-2020/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/press/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/algorithmic-decision-making/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/automated-hiring/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2020-digital-borders/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/discrimination/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/fairness/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/gdpr/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-sanchez-monedero-l.-dencik/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-edwards/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/socio-technical-systems/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-what-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-11-22-datajustice_borders_ehess/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-10-22-presentacion-datificacion-mr_eso/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-10-18-audit_djl/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-09-13-workplace_datapower/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-06-04-datificacion-mr_rsa/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-datafication-workplace-2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2019-03-23-como-auditar_medialab-prado/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-duran-rosal/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-nikolaou/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/c.-hervas-martinez/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-fernandez-navarro/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-perez-ortiz/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2016/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-a.-gutierrez/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-datapower-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2019-orca/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-how-2018/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</loc>
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/lina-dencik/</loc>
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-datafication-borders-2018/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2018-10-10-datajustice_uco/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2018-09-13-hiig/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/fieke-jansen/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2018-08-02-presentation_ucl/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-saez/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2017-asoc/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2018-01-24-cordobacc/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2017-05-11-time-series_ureading/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2017-imibic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/a.-a.-saez/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/pa-gutierrez-2016-ijcnn/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2016-hais/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2016-hais/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-torres-jimenez/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/saez-2015-tmi/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/gutierrez-2016-survey/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2015-12-05-ciencia-datos/</loc>
     <lastmod>2015-12-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2015-npl/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/artificial-neural-networks-hybrid-basis-functions-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/carlos~r.-garcia-alonso/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/cesar-hervas-martinez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/javier-extbfsanchez-monedero/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2015-neucom/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/torres-jimenez-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-cruz-ramirez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/manuel-dorado-moreno/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/mercedes-torres-jimenez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/neural-networks-logistic-regression-classification-product-unit-evolutionary-algorithms-agrarian-technical-efficiency-data-envelopment-analysis/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/dorado-moreno-2015-iwann/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/dorado-moreno-2015-caepia/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/pedro-antonio-gutierrez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/salud-millan-lara/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2014-asoc/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/c.-casanova-mateo/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-campoy-munoz/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/s.-salcedo-sanz/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2014-eaai/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-ramirez-2014-neurocomputing/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/athanasia-nikolaou/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/francisco-fernandez-navarro/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/isabelle-dicaire/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2014-hais/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/time-series-segmentation-genetic-algorithms-clustering-paleoclimate-data-tipping-points-abrupt-climate-change/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication-type/7/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2013-phd-thesis/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/extbfj.-sanchez-monedero/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2013-iwann/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/ecmro-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/gutierrez-2013-maeb/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2013-hais/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2013-neco/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2013-iwann/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-carro-calvo/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-prieto/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/maria-perez-ortiz/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/perez-ortiz-2013-esann/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/gutierrez-2013-wind/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-a.-.-gutierrez/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/p.-tino/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2012-10-05-wordpress/</loc>
     <lastmod>2012-10-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/talk/2012-04-12-presentacion-ldap/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/ordinal-review-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/s-adm-gutierrez-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-c.-fernandez-caballero/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-2011-isda/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/d.-becerra-alonso/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/pedro-a-gutierrez-2011-isda/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-martinez-estudillo/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/luis-prieto/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-carbonero-ruz/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/mean-absolute-error-multi-objective-evolutionary-algorithm-ordinalmeasures/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-2011-isda/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/ordinal-classification-ordinal-regression-support-vector-machine-neuralnetworks/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/pedro-a.-gutierrez/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-c.-fernandez/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-ramirez-2011-sde/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/alejandro-de~campos~ruiz/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/garcia-aranda-2011-omg/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2011-sl/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-garcia-aranda/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/fernando-crespo-sanchez/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/gerardo-pardo-castellote/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/gianpiero-napoli/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/campos-ruiz-2011-omg/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-m.-lopez-soler/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2011-jpdc/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-m.-lopez-vega/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/j.-povedano-molina/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/fernandez-elm-australia-2010/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2011-npl/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/bioinformatic-classificationbiomedical-classificationextreme-learning-machinefast-correlation-based-filterfeature-selectiongene-classificationbiology-computingfeature-extractiongeneticslearning-artificial-intelligencepattern-classification/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2010-isda/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-csffh-2010/</loc>
     <lastmod>2010-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/audio/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/dds/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/jt2/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/jtr2010_references/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/lopez-vega-2010/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/video/</loc>
     <lastmod>2010-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/fernandez-navarro-2010-maeb/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/differential-evolution-memetic-algorithms-multiclassification-multiobjective-neural-networks-predictive-microbiology/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-ramirez-2010-isda/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2010-nnw/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-elmcs-2010/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/f.-j.-martinez-estudillo/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/im/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/povedano-2010/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-ramirez-2010-ijcnn/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-c.-ramirez-moreno/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/m.-t.-lamata/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/cruz-2010-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/messenger/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2010-iceute/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/lopez-2008/</loc>
     <lastmod>2008-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/qos_policies/</loc>
     <lastmod>2008-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/tag/videoconferencing/</loc>
     <lastmod>2008-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-2008/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-2007/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/publication/sanchez-2006/</loc>
     <lastmod>2006-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/l.-melendez-aganzo/</loc>
     <lastmod>2006-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/s.-ventura-soto/</loc>
     <lastmod>2006-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://javism.github.io/post/</loc>
   </url>
+  
 </urlset>
