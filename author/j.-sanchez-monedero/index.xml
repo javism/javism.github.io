@@ -5,12 +5,20 @@
     <link>https://javism.github.io/author/j.-sanchez-monedero/</link>
       <atom:link href="https://javism.github.io/author/j.-sanchez-monedero/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Sánchez-Monedero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>J. Sánchez-Monedero</title>
       <link>https://javism.github.io/author/j.-sanchez-monedero/</link>
     </image>
+    
+    <item>
+      <title>Nobody writing and nobody reading: artificial intelligence chatbots and the science we want</title>
+      <link>https://javism.github.io/publication/guersenzvaig-2023-mosaic/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/guersenzvaig-2023-mosaic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Justice</title>
@@ -65,6 +73,14 @@
       <link>https://javism.github.io/publication/sanchez-monedero-2020-digital-borders/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://javism.github.io/publication/sanchez-monedero-2020-digital-borders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Does It Mean to “solve” the Problem of Discrimination in Hiring? Social, Technical and Legal Perspectives from the UK on Automated Hiring Systems</title>
+      <link>https://javism.github.io/publication/sanchez-monedero-what-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/sanchez-monedero-what-2020/</guid>
       <description></description>
     </item>
     
