@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://javism.github.io/publication-type/2/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/publication/guersenzvaig-ai-2024/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/ariel-guersenzvaig/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/authors/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
     <loc>https://javism.github.io/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/publication_types/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/publication/</loc>
+    <lastmod>2024-02-08T10:37:04+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/talk/2023-10-26-informealgorace/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -11,16 +32,10 @@
     <loc>https://javism.github.io/talk/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://javism.github.io/publication-type/2/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://javism.github.io/author/a.-guersenzvaig/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/authors/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/tag/epistemology/</loc>
@@ -35,12 +50,6 @@
     <loc>https://javism.github.io/publication/guersenzvaig-2023-mosaic/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://javism.github.io/publication_types/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/publication/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://javism.github.io/tag/sciencevalues/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,9 +60,6 @@
     <lastmod>2022-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/author/ana-valdivia-garcia/</loc>
-    <lastmod>2022-11-26T16:52:09+01:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
     <lastmod>2022-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/informe-algorace-2022/</loc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ariel Guersenzvaig | Javier Sánchez-Monedero</title>
+    <link>https://javism.github.io/author/ariel-guersenzvaig/</link>
+      <atom:link href="https://javism.github.io/author/ariel-guersenzvaig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ariel Guersenzvaig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javism.github.io/media/nariz.jpg</url>
+      <title>Ariel Guersenzvaig</title>
+      <link>https://javism.github.io/author/ariel-guersenzvaig/</link>
+    </image>
+    
+    <item>
+      <title>AI research assistants, intrinsic values, and the science we want</title>
+      <link>https://javism.github.io/publication/guersenzvaig-ai-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/guersenzvaig-ai-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
