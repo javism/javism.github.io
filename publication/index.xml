@@ -5,12 +5,20 @@
     <link>https://javism.github.io/publication/</link>
       <atom:link href="https://javism.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://javism.github.io/media/nariz.jpg</url>
       <title>Publications</title>
       <link>https://javism.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Digital technologies for migration control at the Spanish Southern Border</title>
+      <link>https://javism.github.io/publication/informe-algorace-2024/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://javism.github.io/publication/informe-algorace-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI research assistants, intrinsic values, and the science we want</title>
