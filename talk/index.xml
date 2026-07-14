@@ -2,197 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/talk/</link>
-      <atom:link href="https://javism.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/talk/</link>
+      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://javism.github.io/talk/</link>
+      <link>http://localhost:1313/talk/</link>
     </image>
     
     <item>
+      <title>Charlatanería, inteligencia artificial y academia</title>
+      <link>http://localhost:1313/talk/2026-01-22-plaza-concha/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/2026-01-22-plaza-concha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inteligencia artificial al servicio de tus jefes</title>
-      <link>https://javism.github.io/talk/2024-03-20-nocionescomunes/</link>
+      <link>http://localhost:1313/talk/2024-03-20-nocionescomunes/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2024-03-20-nocionescomunes/</guid>
+      <guid>http://localhost:1313/talk/2024-03-20-nocionescomunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentación del Informe de AlgoRace</title>
-      <link>https://javism.github.io/talk/2023-10-26-informealgorace/</link>
+      <link>http://localhost:1313/talk/2023-10-26-informealgorace/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2023-10-26-informealgorace/</guid>
+      <guid>http://localhost:1313/talk/2023-10-26-informealgorace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aterrizando el debate sobre ética e inteligencia artificial</title>
-      <link>https://javism.github.io/talk/2023-04-19-plazadelaconcha/</link>
+      <link>http://localhost:1313/talk/2023-04-19-plazadelaconcha/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2023-04-19-plazadelaconcha/</guid>
+      <guid>http://localhost:1313/talk/2023-04-19-plazadelaconcha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equidad, Rendición de Cuentas, y Transparencia en el Aprendizaje Automático para el caso la discriminación de género</title>
-      <link>https://javism.github.io/talk/2022-11-15-seminariofate/</link>
+      <link>http://localhost:1313/talk/2022-11-15-seminariofate/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2022-11-15-seminariofate/</guid>
+      <guid>http://localhost:1313/talk/2022-11-15-seminariofate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional AI at the border: the case of iBorderCtrl</title>
-      <link>https://javism.github.io/talk/2021-07-07-securityflows/</link>
+      <link>http://localhost:1313/talk/2021-07-07-securityflows/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2021-07-07-securityflows/</guid>
+      <guid>http://localhost:1313/talk/2021-07-07-securityflows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectores de mentiras en las fronteras, ¿en serio?</title>
-      <link>https://javism.github.io/talk/2021-03-18-societatestadistica/</link>
+      <link>http://localhost:1313/talk/2021-03-18-societatestadistica/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2021-03-18-societatestadistica/</guid>
+      <guid>http://localhost:1313/talk/2021-03-18-societatestadistica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interrogating sociotechnical systems for interdisciplinary research</title>
-      <link>https://javism.github.io/talk/2021-03-03-durham/</link>
+      <link>http://localhost:1313/talk/2021-03-03-durham/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2021-03-03-durham/</guid>
+      <guid>http://localhost:1313/talk/2021-03-03-durham/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fronteras digitales y humanitarismo de vigilancia</title>
-      <link>https://javism.github.io/talk/2020-11-17-fronteras/</link>
+      <link>http://localhost:1313/talk/2020-11-17-fronteras/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2020-11-17-fronteras/</guid>
+      <guid>http://localhost:1313/talk/2020-11-17-fronteras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital borders and data policies in the governance of refugees and migrants</title>
-      <link>https://javism.github.io/talk/2019-11-22-datajustice_borders_ehess/</link>
+      <link>http://localhost:1313/talk/2019-11-22-datajustice_borders_ehess/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-11-22-datajustice_borders_ehess/</guid>
+      <guid>http://localhost:1313/talk/2019-11-22-datajustice_borders_ehess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tecnologías y política de datos en las fronteras europeas</title>
-      <link>https://javism.github.io/talk/2019-10-22-presentacion-datificacion-mr_eso/</link>
+      <link>http://localhost:1313/talk/2019-10-22-presentacion-datificacion-mr_eso/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-10-22-presentacion-datificacion-mr_eso/</guid>
+      <guid>http://localhost:1313/talk/2019-10-22-presentacion-datificacion-mr_eso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to audit data-driven sociotechnical systems</title>
-      <link>https://javism.github.io/talk/2019-10-18-audit_djl/</link>
+      <link>http://localhost:1313/talk/2019-10-18-audit_djl/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-10-18-audit_djl/</guid>
+      <guid>http://localhost:1313/talk/2019-10-18-audit_djl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-driven hiring, labour relations and social justice</title>
-      <link>https://javism.github.io/talk/2019-09-13-workplace_datapower/</link>
+      <link>http://localhost:1313/talk/2019-09-13-workplace_datapower/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-09-13-workplace_datapower/</guid>
+      <guid>http://localhost:1313/talk/2019-09-13-workplace_datapower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La datificación de las migraciones y la gestión de personas refugiadas</title>
-      <link>https://javism.github.io/talk/2019-06-04-datificacion-mr_rsa/</link>
+      <link>http://localhost:1313/talk/2019-06-04-datificacion-mr_rsa/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-06-04-datificacion-mr_rsa/</guid>
+      <guid>http://localhost:1313/talk/2019-06-04-datificacion-mr_rsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿Cómo auditar (parcialmente) los sistemas sociotécnicos?</title>
-      <link>https://javism.github.io/talk/2019-03-23-como-auditar_medialab-prado/</link>
+      <link>http://localhost:1313/talk/2019-03-23-como-auditar_medialab-prado/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2019-03-23-como-auditar_medialab-prado/</guid>
+      <guid>http://localhost:1313/talk/2019-03-23-como-auditar_medialab-prado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Justice in the Workplace</title>
-      <link>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
+      <link>http://localhost:1313/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
+      <guid>http://localhost:1313/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justicia social, algoritmos y aprendizaje autoḿatico en la era del ’Big Data’</title>
-      <link>https://javism.github.io/talk/2018-10-10-datajustice_uco/</link>
+      <link>http://localhost:1313/talk/2018-10-10-datajustice_uco/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-10-10-datajustice_uco/</guid>
+      <guid>http://localhost:1313/talk/2018-10-10-datajustice_uco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approaching datafication from the perspective of social justice</title>
-      <link>https://javism.github.io/talk/2018-09-13-hiig/</link>
+      <link>http://localhost:1313/talk/2018-09-13-hiig/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-09-13-hiig/</guid>
+      <guid>http://localhost:1313/talk/2018-09-13-hiig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding data in relation to social justice</title>
-      <link>https://javism.github.io/talk/2018-08-02-presentation_ucl/</link>
+      <link>http://localhost:1313/talk/2018-08-02-presentation_ucl/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-08-02-presentation_ucl/</guid>
+      <guid>http://localhost:1313/talk/2018-08-02-presentation_ucl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cómo funciona cordoba.cc</title>
-      <link>https://javism.github.io/talk/2018-01-24-cordobacc/</link>
+      <link>http://localhost:1313/talk/2018-01-24-cordobacc/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-01-24-cordobacc/</guid>
+      <guid>http://localhost:1313/talk/2018-01-24-cordobacc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An introduction to machine learning and computational intelligence for time-series analysis: A case study for detection of climate tipping points</title>
-      <link>https://javism.github.io/talk/2017-05-11-time-series_ureading/</link>
+      <link>http://localhost:1313/talk/2017-05-11-time-series_ureading/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2017-05-11-time-series_ureading/</guid>
+      <guid>http://localhost:1313/talk/2017-05-11-time-series_ureading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El proceso de ciencia de datos y problemas de clasificación</title>
-      <link>https://javism.github.io/talk/2015-12-05-ciencia-datos/</link>
+      <link>http://localhost:1313/talk/2015-12-05-ciencia-datos/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2015-12-05-ciencia-datos/</guid>
+      <guid>http://localhost:1313/talk/2015-12-05-ciencia-datos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Escalando la revolución con Wordpress</title>
-      <link>https://javism.github.io/talk/2012-10-05-wordpress/</link>
+      <link>http://localhost:1313/talk/2012-10-05-wordpress/</link>
       <pubDate>Sat, 06 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2012-10-05-wordpress/</guid>
+      <guid>http://localhost:1313/talk/2012-10-05-wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integración de sistemas y servicios distribuidos con LDAP</title>
-      <link>https://javism.github.io/talk/2012-04-12-presentacion-ldap/</link>
+      <link>http://localhost:1313/talk/2012-04-12-presentacion-ldap/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2012-04-12-presentacion-ldap/</guid>
+      <guid>http://localhost:1313/talk/2012-04-12-presentacion-ldap/</guid>
       <description></description>
     </item>
     

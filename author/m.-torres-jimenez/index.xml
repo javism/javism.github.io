@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Torres-Jiménez | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/author/m.-torres-jimenez/</link>
-      <atom:link href="https://javism.github.io/author/m.-torres-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/m.-torres-jimenez/</link>
+      <atom:link href="http://localhost:1313/author/m.-torres-jimenez/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Torres-Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>M. Torres-Jiménez</title>
-      <link>https://javism.github.io/author/m.-torres-jimenez/</link>
+      <link>http://localhost:1313/author/m.-torres-jimenez/</link>
     </image>
     
     <item>
       <title>Hybrid Artificial Intelligent Systems: 11th International Conference, HAIS 2016, Seville, Spain, April 18-20, 2016, Proceedings</title>
-      <link>https://javism.github.io/publication/perez-ortiz-2016-hais/</link>
+      <link>http://localhost:1313/publication/perez-ortiz-2016-hais/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/perez-ortiz-2016-hais/</guid>
+      <guid>http://localhost:1313/publication/perez-ortiz-2016-hais/</guid>
       <description></description>
     </item>
     

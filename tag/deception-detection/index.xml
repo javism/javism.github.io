@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deception detection | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/deception-detection/</link>
-      <atom:link href="https://javism.github.io/tag/deception-detection/index.xml" rel="self" type="application/rss+xml" />
-    <description>deception detection</description>
+    <title>Deception Detection | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/deception-detection/</link>
+      <atom:link href="http://localhost:1313/tag/deception-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deception Detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>deception detection</title>
-      <link>https://javism.github.io/tag/deception-detection/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Deception Detection</title>
+      <link>http://localhost:1313/tag/deception-detection/</link>
     </image>
     
     <item>
       <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-politics-borders-2020/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-politics-borders-2020/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-politics-borders-2020/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-politics-borders-2020/</guid>
       <description></description>
     </item>
     

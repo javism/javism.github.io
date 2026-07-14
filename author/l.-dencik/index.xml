@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Dencik | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/author/l.-dencik/</link>
-      <atom:link href="https://javism.github.io/author/l.-dencik/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/l.-dencik/</link>
+      <atom:link href="http://localhost:1313/author/l.-dencik/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Dencik</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>L. Dencik</title>
-      <link>https://javism.github.io/author/l.-dencik/</link>
+      <link>http://localhost:1313/author/l.-dencik/</link>
     </image>
     
     <item>
       <title>Data Justice</title>
-      <link>https://javism.github.io/publication/dencik_2022_datajustice/</link>
+      <link>http://localhost:1313/publication/dencik_2022_datajustice/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/dencik_2022_datajustice/</guid>
+      <guid>http://localhost:1313/publication/dencik_2022_datajustice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biometric identity systems in law enforcement and the politics of (voice) recognition: The case of SiiP</title>
-      <link>https://javism.github.io/publication/jansen-2021-siip/</link>
+      <link>http://localhost:1313/publication/jansen-2021-siip/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/jansen-2021-siip/</guid>
+      <guid>http://localhost:1313/publication/jansen-2021-siip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The politics of deceptive borders: &#39;biomarkers of deceit&#39; and the case of iBorderCtrl</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-politics-borders-2020/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-politics-borders-2020/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-politics-borders-2020/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-politics-borders-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Does It Mean to “solve” the Problem of Discrimination in Hiring? Social, Technical and Legal Perspectives from the UK on Automated Hiring Systems</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-what-2020/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-what-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-what-2020/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-what-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The datafication of the workplace</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-datafication-workplace-2019/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-datafication-workplace-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-datafication-workplace-2019/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-datafication-workplace-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to (partially) evaluate automated decision systems</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-how-2018/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-how-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-how-2018/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-how-2018/</guid>
       <description></description>
     </item>
     

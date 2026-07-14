@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithms | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/algorithms/</link>
-      <atom:link href="https://javism.github.io/tag/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/algorithms/</link>
+      <atom:link href="http://localhost:1313/tag/algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>Algorithms</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>Algorithms</title>
-      <link>https://javism.github.io/tag/algorithms/</link>
+      <link>http://localhost:1313/tag/algorithms/</link>
     </image>
     
     <item>
       <title>Data Justice</title>
-      <link>https://javism.github.io/publication/dencik_2022_datajustice/</link>
+      <link>http://localhost:1313/publication/dencik_2022_datajustice/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/dencik_2022_datajustice/</guid>
+      <guid>http://localhost:1313/publication/dencik_2022_datajustice/</guid>
       <description></description>
     </item>
     

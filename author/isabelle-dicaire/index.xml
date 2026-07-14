@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isabelle Dicaire | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/author/isabelle-dicaire/</link>
-      <atom:link href="https://javism.github.io/author/isabelle-dicaire/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/isabelle-dicaire/</link>
+      <atom:link href="http://localhost:1313/author/isabelle-dicaire/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabelle Dicaire</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>Isabelle Dicaire</title>
-      <link>https://javism.github.io/author/isabelle-dicaire/</link>
+      <link>http://localhost:1313/author/isabelle-dicaire/</link>
     </image>
     
     <item>
       <title>Time Series Segmentation of Paleoclimate Tipping Points by an Evolutionary Algorithm</title>
-      <link>https://javism.github.io/publication/perez-ortiz-2014-hais/</link>
+      <link>http://localhost:1313/publication/perez-ortiz-2014-hais/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/perez-ortiz-2014-hais/</guid>
+      <guid>http://localhost:1313/publication/perez-ortiz-2014-hais/</guid>
       <description></description>
     </item>
     

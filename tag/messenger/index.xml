@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>messenger | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/messenger/</link>
-      <atom:link href="https://javism.github.io/tag/messenger/index.xml" rel="self" type="application/rss+xml" />
-    <description>messenger</description>
+    <title>Messenger | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/messenger/</link>
+      <atom:link href="http://localhost:1313/tag/messenger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Messenger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>messenger</title>
-      <link>https://javism.github.io/tag/messenger/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Messenger</title>
+      <link>http://localhost:1313/tag/messenger/</link>
     </image>
     
     <item>
       <title>Instant Messaging Based Interface for Data Distribution Service</title>
-      <link>https://javism.github.io/publication/povedano-2010/</link>
+      <link>http://localhost:1313/publication/povedano-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/povedano-2010/</guid>
+      <guid>http://localhost:1313/publication/povedano-2010/</guid>
       <description></description>
     </item>
     

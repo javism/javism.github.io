@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artificial neural networks; Radial basis function; Proportional odds model; Evolutionary algorithms; Ordinal classification; Ordinal regression | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</link>
-      <atom:link href="https://javism.github.io/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/index.xml" rel="self" type="application/rss+xml" />
-    <description>Artificial neural networks; Radial basis function; Proportional odds model; Evolutionary algorithms; Ordinal classification; Ordinal regression</description>
+    <title>Artificial Neural Networks; Radial Basis Function; Proportional Odds Model; Evolutionary Algorithms; Ordinal Classification; Ordinal Regression | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</link>
+      <atom:link href="http://localhost:1313/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Neural Networks; Radial Basis Function; Proportional Odds Model; Evolutionary Algorithms; Ordinal Classification; Ordinal Regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>Artificial neural networks; Radial basis function; Proportional odds model; Evolutionary algorithms; Ordinal classification; Ordinal regression</title>
-      <link>https://javism.github.io/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Artificial Neural Networks; Radial Basis Function; Proportional Odds Model; Evolutionary Algorithms; Ordinal Classification; Ordinal Regression</title>
+      <link>http://localhost:1313/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</link>
     </image>
     
     <item>
       <title>Nonlinear Ordinal Logistic Regression Using Covariates Obtained by Radial Basis Function Neural Networks Models</title>
-      <link>https://javism.github.io/publication/dorado-moreno-2015-iwann/</link>
+      <link>http://localhost:1313/publication/dorado-moreno-2015-iwann/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/dorado-moreno-2015-iwann/</guid>
+      <guid>http://localhost:1313/publication/dorado-moreno-2015-iwann/</guid>
       <description></description>
     </item>
     

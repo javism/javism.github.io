@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lina Dencik | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/author/lina-dencik/</link>
-      <atom:link href="https://javism.github.io/author/lina-dencik/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lina-dencik/</link>
+      <atom:link href="http://localhost:1313/author/lina-dencik/index.xml" rel="self" type="application/rss+xml" />
     <description>Lina Dencik</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>Lina Dencik</title>
-      <link>https://javism.github.io/author/lina-dencik/</link>
+      <link>http://localhost:1313/author/lina-dencik/</link>
     </image>
     
     <item>
       <title>Data Justice in the Workplace</title>
-      <link>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
+      <link>http://localhost:1313/talk/2018-11-18-datajusticeintheworkplace_oxford/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
+      <guid>http://localhost:1313/talk/2018-11-18-datajusticeintheworkplace_oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approaching datafication from the perspective of social justice</title>
-      <link>https://javism.github.io/talk/2018-09-13-hiig/</link>
+      <link>http://localhost:1313/talk/2018-09-13-hiig/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-09-13-hiig/</guid>
+      <guid>http://localhost:1313/talk/2018-09-13-hiig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding data in relation to social justice</title>
-      <link>https://javism.github.io/talk/2018-08-02-presentation_ucl/</link>
+      <link>http://localhost:1313/talk/2018-08-02-presentation_ucl/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/talk/2018-08-02-presentation_ucl/</guid>
+      <guid>http://localhost:1313/talk/2018-08-02-presentation_ucl/</guid>
       <description></description>
     </item>
     

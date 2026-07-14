@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>algorithmic decision-making | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/algorithmic-decision-making/</link>
-      <atom:link href="https://javism.github.io/tag/algorithmic-decision-making/index.xml" rel="self" type="application/rss+xml" />
-    <description>algorithmic decision-making</description>
+    <title>Algorithmic Decision-Making | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/algorithmic-decision-making/</link>
+      <atom:link href="http://localhost:1313/tag/algorithmic-decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algorithmic Decision-Making</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>algorithmic decision-making</title>
-      <link>https://javism.github.io/tag/algorithmic-decision-making/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Algorithmic Decision-Making</title>
+      <link>http://localhost:1313/tag/algorithmic-decision-making/</link>
     </image>
     
     <item>
       <title>What Does It Mean to “solve” the Problem of Discrimination in Hiring? Social, Technical and Legal Perspectives from the UK on Automated Hiring Systems</title>
-      <link>https://javism.github.io/publication/sanchez-monedero-what-2020/</link>
+      <link>http://localhost:1313/publication/sanchez-monedero-what-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/sanchez-monedero-what-2020/</guid>
+      <guid>http://localhost:1313/publication/sanchez-monedero-what-2020/</guid>
       <description></description>
     </item>
     

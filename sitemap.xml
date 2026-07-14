@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://javism.github.io/authors/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/talk/2026-01-22-plaza-concha/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/talk/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://javism.github.io/publication-type/4/</loc>
     <lastmod>2024-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/author/ana-valdivia-garcia/</loc>
     <lastmod>2024-11-26T16:52:09+01:00</lastmod>
   </url><url>
-    <loc>https://javism.github.io/authors/</loc>
-    <lastmod>2024-11-26T16:52:09+01:00</lastmod>
-  </url><url>
     <loc>https://javism.github.io/author/carlos-lancho-bances/</loc>
     <lastmod>2024-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/informe-algorace-2024/</loc>
-    <lastmod>2024-11-26T16:52:09+01:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/author/javier-sanchez-monedero/</loc>
-    <lastmod>2024-11-26T16:52:09+01:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/</loc>
     <lastmod>2024-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/author/naiara-bellio/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2024-11-26T16:52:09+01:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/talk/2024-03-20-nocionescomunes/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://javism.github.io/talk/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication-type/2/</loc>
@@ -359,6 +362,9 @@
     <loc>https://javism.github.io/talk/2017-05-11-time-series_ureading/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://javism.github.io/author/a.-saez/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://javism.github.io/publication/sanchez-monedero-2017-imibic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -370,6 +376,9 @@
   </url><url>
     <loc>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/f.-fernandez-navarro/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/perez-ortiz-2016-hais/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
@@ -399,6 +408,9 @@
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/tag/artificial-neural-networks-radial-basis-function-proportional-odds-model-evolutionary-algorithms-ordinal-classification-ordinal-regression/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/c.-hervas-martinez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/author/carlos~r.-garcia-alonso/</loc>
@@ -569,7 +581,13 @@
     <loc>https://javism.github.io/author/pedro-a.-gutierrez/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://javism.github.io/author/c.-hervas-martinez/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://javism.github.io/author/j.-c.-fernandez/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/m.-cruz-ramirez/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/cruz-ramirez-2011-sde/</loc>
@@ -623,7 +641,13 @@
     <loc>https://javism.github.io/publication/sanchez-monedero-2010-isda/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://javism.github.io/author/p.-a.-gutierrez/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://javism.github.io/publication/cruz-csffh-2010/</loc>
+    <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/j.-c.-fernandez/</loc>
     <lastmod>2010-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/tag/audio/</loc>
@@ -696,6 +720,12 @@
     <lastmod>2008-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/sanchez-2008/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/j.-m.-lopez-soler/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://javism.github.io/author/j.-m.-lopez-vega/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://javism.github.io/publication/sanchez-2007/</loc>

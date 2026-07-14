@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/large-language-models/</link>
-      <atom:link href="https://javism.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/large-language-models/</link>
+      <atom:link href="http://localhost:1313/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>Large Language Models</title>
-      <link>https://javism.github.io/tag/large-language-models/</link>
+      <link>http://localhost:1313/tag/large-language-models/</link>
     </image>
     
     <item>
       <title>Nobody writing and nobody reading: artificial intelligence chatbots and the science we want</title>
-      <link>https://javism.github.io/publication/guersenzvaig-2023-mosaic/</link>
+      <link>http://localhost:1313/publication/guersenzvaig-2023-mosaic/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/guersenzvaig-2023-mosaic/</guid>
+      <guid>http://localhost:1313/publication/guersenzvaig-2023-mosaic/</guid>
       <description></description>
     </item>
     

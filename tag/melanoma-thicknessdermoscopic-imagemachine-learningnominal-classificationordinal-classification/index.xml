@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Melanoma thickness;dermoscopic image;machine learning;nominal classification;ordinal classification | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/</link>
-      <atom:link href="https://javism.github.io/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/index.xml" rel="self" type="application/rss+xml" />
-    <description>Melanoma thickness;dermoscopic image;machine learning;nominal classification;ordinal classification</description>
+    <title>Melanoma Thickness;dermoscopic Image;machine Learning;nominal Classification;ordinal Classification | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/</link>
+      <atom:link href="http://localhost:1313/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melanoma Thickness;dermoscopic Image;machine Learning;nominal Classification;ordinal Classification</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>Melanoma thickness;dermoscopic image;machine learning;nominal classification;ordinal classification</title>
-      <link>https://javism.github.io/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Melanoma Thickness;dermoscopic Image;machine Learning;nominal Classification;ordinal Classification</title>
+      <link>http://localhost:1313/tag/melanoma-thicknessdermoscopic-imagemachine-learningnominal-classificationordinal-classification/</link>
     </image>
     
     <item>
       <title>Machine learning methods for binary and multiclass classification of melanoma thickness from dermoscopic images</title>
-      <link>https://javism.github.io/publication/saez-2015-tmi/</link>
+      <link>http://localhost:1313/publication/saez-2015-tmi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/saez-2015-tmi/</guid>
+      <guid>http://localhost:1313/publication/saez-2015-tmi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. A. Sáez | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/author/a.-a.-saez/</link>
-      <atom:link href="https://javism.github.io/author/a.-a.-saez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/a.-a.-saez/</link>
+      <atom:link href="http://localhost:1313/author/a.-a.-saez/index.xml" rel="self" type="application/rss+xml" />
     <description>A. A. Sáez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
+      <url>http://localhost:1313/media/nariz.jpg</url>
       <title>A. A. Sáez</title>
-      <link>https://javism.github.io/author/a.-a.-saez/</link>
+      <link>http://localhost:1313/author/a.-a.-saez/</link>
     </image>
     
     <item>
       <title>Tackling the ordinal and imbalance nature of a melanoma image classification problem</title>
-      <link>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</link>
+      <link>http://localhost:1313/publication/perez-ortiz-2016-ijcnn/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/perez-ortiz-2016-ijcnn/</guid>
+      <guid>http://localhost:1313/publication/perez-ortiz-2016-ijcnn/</guid>
       <description></description>
     </item>
     

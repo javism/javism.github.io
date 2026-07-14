@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ordinal classification; ordinal regression; evaluation measures; accuracy; support vector machines; threshold models; ordinal logistic regression | Javier Sánchez-Monedero</title>
-    <link>https://javism.github.io/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/</link>
-      <atom:link href="https://javism.github.io/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ordinal classification; ordinal regression; evaluation measures; accuracy; support vector machines; threshold models; ordinal logistic regression</description>
+    <title>Ordinal Classification; Ordinal Regression; Evaluation Measures; Accuracy; Support Vector Machines; Threshold Models; Ordinal Logistic Regression | Javier Sánchez-Monedero</title>
+    <link>http://localhost:1313/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/</link>
+      <atom:link href="http://localhost:1313/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ordinal Classification; Ordinal Regression; Evaluation Measures; Accuracy; Support Vector Machines; Threshold Models; Ordinal Logistic Regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://javism.github.io/media/nariz.jpg</url>
-      <title>Ordinal classification; ordinal regression; evaluation measures; accuracy; support vector machines; threshold models; ordinal logistic regression</title>
-      <link>https://javism.github.io/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/</link>
+      <url>http://localhost:1313/media/nariz.jpg</url>
+      <title>Ordinal Classification; Ordinal Regression; Evaluation Measures; Accuracy; Support Vector Machines; Threshold Models; Ordinal Logistic Regression</title>
+      <link>http://localhost:1313/tag/ordinal-classification-ordinal-regression-evaluation-measures-accuracy-support-vector-machines-threshold-models-ordinal-logistic-regression/</link>
     </image>
     
     <item>
       <title>An Experimental Study of Different Ordinal Regression Methods and Measures</title>
-      <link>https://javism.github.io/publication/ordinal-review-2012/</link>
+      <link>http://localhost:1313/publication/ordinal-review-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://javism.github.io/publication/ordinal-review-2012/</guid>
+      <guid>http://localhost:1313/publication/ordinal-review-2012/</guid>
       <description></description>
     </item>
     
